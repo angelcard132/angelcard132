@@ -63,34 +63,20 @@
 
 ---
 
-### Metricas y Actividad de GitHub
-
+### Métricas y Mi Actividad en GitHub
 <div align="center">
-
-  <!-- Tarjeta de estadísticas generales (commits totales, públicos + privados, PRs, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=angelcard132&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false&border_color=30363d&border_radius=8" height="175" alt="Estadísticas de angelcard132" />
-
-  <!-- Tarjeta de racha de actividad y días activos -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelcard132&theme=github-dark-blue&hide_border=false&border_radius=8" height="175" alt="Racha de contribuciones" />
-
+  <!-- Tarjeta de estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=angelcard132&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false&border_color=30363d" height="165" alt="Estadísticas de angelcard132" />
+  <!-- Racha de actividad -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelcard132&theme=github-dark-blue&hide_border=false" height="165" alt="Racha de contribuciones" />
 </div>
-
 <br />
-
 <div align="center">
-
-  <!-- Lenguajes más usados calculados de todos tus repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcard132&layout=compact&langs_count=8&count_private=true&theme=github_dark&hide_border=false&border_radius=8" height="175" alt="Lenguajes más usados" />
-
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcard132&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=30363d" height="165" alt="Lenguajes más usados" />
 </div>
-
 ---
-
-### Mi Historial de Contribuciones
-
+### Historial de Actividad
 <p align="center">
-  <!-- Gráfico de actividad y constancia -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelcard132&theme=github-compact&custom_title=Historial%20de%20Actividad" width="100%" alt="Gráfica de Actividad" />
 </p>
-
----
