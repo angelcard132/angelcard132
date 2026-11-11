@@ -19,7 +19,7 @@
     <a href="https://gitlab.com/angelcard132" target="_blank">
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
     </a>
-    <a href="https://g.dev/angelcard132" target="_blank">
+<a href="https://g.dev/angelcard132" target="_blank">
       <img src="https://img.shields.io/badge/Google_Dev_Profile-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Dev" />
     </a>
     <a href="https://www.instagram.com/ni_tanangel" target="_blank">
