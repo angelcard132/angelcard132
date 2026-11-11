@@ -63,20 +63,16 @@
 
 ---
 
-### Métricas y Mi Actividad en GitHub
+### Métricas y Actividad de GitHub
 <div align="center">
-  <!-- Tarjeta de estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=angelcard132&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false&border_color=30363d" height="165" alt="Estadísticas de angelcard132" />
-  <!-- Racha de actividad -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelcard132&theme=github-dark-blue&hide_border=false" height="165" alt="Racha de contribuciones" />
+  <!-- Racha de Contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelcard132&theme=github-dark-blue&hide_border=false" height="190" alt="Racha de contribuciones" />
+  <!-- Lenguajes más usados por commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelcard132&theme=github_dark" height="190" alt="Lenguajes más usados" />
 </div>
 <br />
 <div align="center">
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcard132&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=30363d" height="165" alt="Lenguajes más usados" />
+  <!-- Resumen de Perfil, Contribuciones y Gráfica Anual -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelcard132&theme=github_dark" width="100%" alt="Detalles de Actividad y Perfil" />
 </div>
 ---
-### Historial de Actividad
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelcard132&theme=github-compact&custom_title=Historial%20de%20Actividad" width="100%" alt="Gráfica de Actividad" />
-</p>
