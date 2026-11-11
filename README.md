@@ -75,6 +75,8 @@
   <!-- Resumen de Perfil, Contribuciones y Gráfica Anual -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelcard132&theme=github_dark" width="100%" alt="Detalles de Actividad y Perfil" />
 </div>
+
+
 ---
 
 <div align="center">
